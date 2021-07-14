@@ -1,0 +1,38 @@
+/* 
+// 11. Footer
+*/
+
+.footer {
+  //background: darken($white, 8%);
+  //background: rgba(45, 42, 111, 0.5);
+  color: darken($muted, 7%) !important;
+  padding: 70px 0 40px;
+  .footer-social-icon-content {
+    .footer-social-icon {
+      color: rgba($verde-sim, 0.85);
+      transition: all 0.5s;
+      &:hover {
+        color: $azul-sim;
+      }
+    }
+  }
+  .footer-sub-menu {
+    li {
+      padding: 6px 0;
+      .footer-link {
+        color: darken($muted, 7%) !important;
+        font-size: 15px;
+        transition: all 0.5s;
+        &:hover {
+          color: $verde-sim;
+          margin-left: 5px;
+        }
+      }
+    }
+  }
+}
+.footer-alt {
+  //background: darken($verde-sim, 11%);
+  //background: rgba($verde-sim, 0.8);
+  color: darken($muted, 7%) !important;
+}

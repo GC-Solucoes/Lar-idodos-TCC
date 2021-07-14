@@ -1,0 +1,44 @@
+<!-- Forms Usuários  -->
+<div class="row">
+  <div class="col-md-12">
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title">
+              <span class="lstick"></span>Admin
+            </h4>
+            <div class="table-responsive-lg">
+              <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
+                <thead>
+                  <tr>
+                  <td><Button class="btn-primary" [routerLink]="['postagem']">Postagem</Button></td>
+                  <td><Button class="btn-primary" [routerLink]="['banners']">Banners</Button></td>
+                  <td><Button class="btn-primary" [routerLink]="['usuarios']">Usuários</Button></td>
+                  <td><Button class="btn-primary" [routerLink]="['onde-estamos']">Onde Estamos</Button></td>
+                  <td><Button class="btn-primary" [routerLink]="['carousel']">Carrossel</Button></td>
+                  <td><Button class="btn-primary" [routerLink]="['politicas-de-privacidade']">Politicas de Privacidade</Button></td>
+                  <td><Button class="btn btn-link px-0 mt-2" [routerLink]="['']" (click)="logout()" onclick="alert ('Logout Concluido')">Logout</Button></td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+
+
+                  </tr>
+
+                </tbody>
+               </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
+
+<!-- fim users  -->
+

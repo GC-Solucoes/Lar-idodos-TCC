@@ -1,0 +1,88 @@
+<body>
+
+  <div class="jumbotron jumbotron-fluid">
+
+    <div class="container">
+                <h3 class="display-8" *ngIf="postagem.id"> Editar Postagem</h3>
+      <h3 class="display-8" *ngIf="!postagem.id"> Nova Postagem</h3>
+
+
+        <form  (ngSubmit)="onSubmit()" [formGroup]="postagemForm" class="mt-4">
+
+
+
+        <div class="form-group"  [ngClass]="aplicaCssErro('titulo')">
+
+          <label for="titulo" class="mb-0">Título</label>
+
+          <input type="text" id="titulo"  formControlName="titulo" placeholder="nome do post" [(ngModel)]="postagem.titulo"  class="form-control"
+             name="titulo" required>
+
+            <app-campo-control-error
+            [mostrarErro]="verificaValidTouched('titulo')"
+             msgErro="Título é Obrigatório">
+          </app-campo-control-error>
+
+        </div>
+
+        <div class="form-group"  [ngClass]="aplicaCssErro('links')">
+
+        <label for="links" class="mb-0">Links</label>
+
+        <input type="text" id="links" formControlName="links" placeholder="wwww.google.com" [(ngModel)]="postagem.links" class="form-control"
+           name="links" >
+
+          <app-campo-control-error
+          [mostrarErro]="verificaValidTouched('links')"
+           msgErro="É Obrigatório digitar um link">
+        </app-campo-control-error>
+
+        </div>
+
+
+
+        <label for="telefone" class="mb-0">Texto</label>
+        <div class="form-group bg-light text-dark" [ngClass]="aplicaCssErro('textos')">
+
+          <angular-editor placeholder="Digite Sua Mensagem Aqui" formControlName="textos" [(ngModel)]="postagem.textos" id="textos" name="textos"
+          >
+         </angular-editor>
+
+         <app-campo-control-error
+         [mostrarErro]="verificaValidTouched('textos')"
+          msgErro="É Obrigatório digitar um Texto">
+       </app-campo-control-error>
+
+
+        </div>
+
+        <br />
+
+        <div class="row">
+          <div class="col-md-12">
+            <div class="form-group">
+              <button type="submit" 
+                class="btn btn-primary float-right m-l-5 w-25">Salvar</button>
+
+              <input type="submit" value="Cancelar" [routerLink]="['/admin/postagem']"
+                class="btn btn-outline-dark float-right w-25" />
+
+
+            </div>
+          </div>
+        </div>
+
+
+
+      </form>
+
+
+    </div>
+
+  </div>
+
+
+
+</body>
+
+<router-outlet></router-outlet>

@@ -1,0 +1,43 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-light" (window:scroll)="windowScroll()"
+    id="navbar">
+    <div class="container">
+        <!-- LOGO -->
+        <a class="navbar-brand logo" href="/">
+            <img src="assets/images/logo-level-new.png" alt="" class="logo-dark" height="46" />
+            <img src="assets/images/logo-light.png" alt="" class="logo-light" height="24" />
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" (click)="toggleMenu()">
+            <i class="mdi mdi-menu"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mx-auto navbar-center" id="mySidenav">
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'home'}">
+                    <a routerLink="/" [ngxScrollTo]="'#home'" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'features'}">
+                    <a routerLink="/" [ngxScrollTo]="'#features'" class="nav-link">Quem Somos</a>
+                </li>
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'pricing'}">
+                    <a routerLink="/" [ngxScrollTo]="'#pricing'" class="nav-link">Nossos Valores</a>
+                </li>
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'contact'}">
+                    <a routerLink="/" [ngxScrollTo]="'#contact'" class="nav-link">Onde Estamos</a>
+                </li>
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'contact'}">
+                    <a routerLink="/" [ngxScrollTo]="'#contact'" class="nav-link">Links Úteis</a>
+                </li>
+                <li class="nav-item" [ngClass]="{'active':currentSection === 'contact'}">
+                    <a routerLink="/" [ngxScrollTo]="'#contact'" class="nav-link">Fale Conosco</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav navbar-center">
+                <li class="nav-item">
+                    <a href="https://www.tc2code.com.br/projetos/level/portal/" class="nav-link">
+                        <i-feather class="icon-xs icon mr-1" name="lock"></i-feather> Portal do Cliente
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

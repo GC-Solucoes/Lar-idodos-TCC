@@ -1,0 +1,10 @@
+.dropdown-toggle {
+  width: 30px;
+}
+.dropdown-toggle::after {
+  display: none;
+}
+
+.accordion > .card {
+  margin-bottom: 0px !important;
+}

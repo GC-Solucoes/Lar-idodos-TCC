@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Palanquin%20Dark:wght@700&amp;display=swap); </style>
+</defs>
+<g>
+<g transform="translate(512,478) rotate(-29.560548674032407,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="122.413px" font-style="normal" font-weight="bold" x="-282.33868408203125" y="-49.92033081054688" text-anchor="start" dominant-baseline="alphabetic">econômia</text>
+</g>
+<g transform="translate(512,294) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="108.289px" font-style="normal" font-weight="bold" x="-217.155517578125" y="-44.157934570312506" text-anchor="start" dominant-baseline="alphabetic">voelevel</text>
+</g>
+<g transform="translate(508,530) rotate(-33.56987876005036,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="84.7477px" font-style="normal" font-weight="bold" x="-180.41143798828125" y="-34.55802612304688" text-anchor="start" dominant-baseline="alphabetic">despesas</text>
+</g>
+<g transform="translate(346,208) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="70.6231px" font-style="normal" font-weight="bold" x="-141.6636962890625" y="-28.799719238281252" text-anchor="start" dominant-baseline="alphabetic">empresa</text>
+</g>
+<g transform="translate(500,326) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="61.2067px" font-style="normal" font-weight="bold" x="-100.64338684082031" y="-24.958123779296876" text-anchor="start" dominant-baseline="alphabetic">Gestão</text>
+</g>
+<g transform="translate(614,436) rotate(80.46175479805684,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="61.2067px" font-style="normal" font-weight="bold" x="-77.9075927734375" y="-24.958123779296876" text-anchor="start" dominant-baseline="alphabetic">OTAs</text>
+</g>
+<g transform="translate(692,552) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="47.0821px" font-style="normal" font-weight="bold" x="-71.27909851074219" y="-19.199810791015626" text-anchor="start" dominant-baseline="alphabetic">hotéis</text>
+</g>
+<g transform="translate(746,432) rotate(-73.64066295513533,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="42.3739px" font-style="normal" font-weight="bold" x="-60.44078063964844" y="-17.279010009765624" text-anchor="start" dominant-baseline="alphabetic">Saúde</text>
+</g>
+<g transform="translate(696,582) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="37.6656px" font-style="normal" font-weight="bold" x="-65.20673370361328" y="-15.362292480468751" text-anchor="start" dominant-baseline="alphabetic">viagem</text>
+</g>
+<g transform="translate(714,184) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="32.9574px" font-style="normal" font-weight="bold" x="-87.38336944580078" y="-13.437420654296876" text-anchor="start" dominant-baseline="alphabetic">plataforma</text>
+</g>
+<g transform="translate(368,628) rotate(-3.240043869060073,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="32.9574px" font-style="normal" font-weight="bold" x="-73.89035034179688" y="-13.437420654296876" text-anchor="start" dominant-baseline="alphabetic">empresas</text>
+</g>
+<g transform="translate(388,664) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="32.9574px" font-style="normal" font-weight="bold" x="-62.35785675048828" y="-13.437420654296876" text-anchor="start" dominant-baseline="alphabetic">Viagens</text>
+</g>
+<g transform="translate(564,204) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="28.2492px" font-style="normal" font-weight="bold" x="-50.70489501953125" y="-11.516619873046876" text-anchor="start" dominant-baseline="alphabetic">política</text>
+</g>
+<g transform="translate(744,634) rotate(-74.62571206943731,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="28.2492px" font-style="normal" font-weight="bold" x="-61.64789581298828" y="-11.516619873046876" text-anchor="start" dominant-baseline="alphabetic">Despesas</text>
+</g>
+<g transform="translate(236,482) rotate(18.206548566260246,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="28.2492px" font-style="normal" font-weight="bold" x="-42.303497314453125" y="-11.516619873046876" text-anchor="start" dominant-baseline="alphabetic">aéreas</text>
+</g>
+<g transform="translate(506,332) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-49.57521057128906" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">processo</text>
+</g>
+<g transform="translate(416,686) rotate(-10.96937298155915,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-44.255165100097656" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">clientes</text>
+</g>
+<g transform="translate(376,148) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-39.723716735839844" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">Calcule</text>
+</g>
+<g transform="translate(670,380) rotate(73.85910771544619,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-38.405487060546875" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">nossos</text>
+</g>
+<g transform="translate(610,470) rotate(-6.226887879421182,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-29.872238159179688" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">única</text>
+</g>
+<g transform="translate(668,200) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-30.07232666015625" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">hotel</text>
+</g>
+<g transform="translate(442,396) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="23.541px" font-style="normal" font-weight="bold" x="-24.375656127929688" y="-9.599902343750001" text-anchor="start" dominant-baseline="alphabetic">suas</text>
+</g>
+<g transform="translate(228,502) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-55.925048828125" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">corporativas</text>
+</g>
+<g transform="translate(408,702) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-51.74480438232422" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">reembolsos</text>
+</g>
+<g transform="translate(428,578) rotate(-29.354329192731207,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-50.45494079589844" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">Plataforma</text>
+</g>
+<g transform="translate(690,598) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-37.85767364501953" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">dinheiro</text>
+</g>
+<g transform="translate(410,638) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-38.10247039794922" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">controle</text>
+</g>
+<g transform="translate(696,150) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-40.22084045410156" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">Agências</text>
+</g>
+<g transform="translate(724,358) rotate(-69.96496086823484,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-34.176422119140625" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">simples</text>
+</g>
+<g transform="translate(480,270) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-30.90941619873047" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">apenas</text>
+</g>
+<g transform="translate(616,490) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-27.717727661132812" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">ajudar</text>
+</g>
+<g transform="translate(628,442) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-22.90666961669922" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">lugar</text>
+</g>
+<g transform="translate(516,178) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-24.68610382080078" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">aéreo</text>
+</g>
+<g transform="translate(512,342) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-19.893882751464844" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">seus</text>
+</g>
+<g transform="translate(438,378) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="18.8328px" font-style="normal" font-weight="bold" x="-14.404937744140625" y="-7.679107666015625" text-anchor="start" dominant-baseline="alphabetic">até</text>
+</g>
+<g transform="translate(732,494) rotate(-10.699388062543349,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-39.14060974121094" y="-6" text-anchor="start" dominant-baseline="alphabetic">especialista</text>
+</g>
+<g transform="translate(270,200) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-38.7452392578125" y="-6" text-anchor="start" dominant-baseline="alphabetic">experiência</text>
+</g>
+<g transform="translate(384,196) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-44.02611541748047" y="-6" text-anchor="start" dominant-baseline="alphabetic">atendimento</text>
+</g>
+<g transform="translate(746,440) rotate(-73.81476208071054,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-34.64338684082031" y="-6" text-anchor="start" dominant-baseline="alphabetic">descontos</text>
+</g>
+<g transform="translate(370,276) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-26.919754028320312" y="-6" text-anchor="start" dominant-baseline="alphabetic">Suporte</text>
+</g>
+<g transform="translate(278,234) rotate(27.739552401808268,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-25.46540069580078" y="-6" text-anchor="start" dominant-baseline="alphabetic">solução</text>
+</g>
+<g transform="translate(378,520) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-26.079620361328125" y="-6" text-anchor="start" dominant-baseline="alphabetic">sistema</text>
+</g>
+<g transform="translate(700,552) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-27.858734130859375" y="-6" text-anchor="start" dominant-baseline="alphabetic">motivos</text>
+</g>
+<g transform="translate(752,244) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-28.27527618408203" y="-6" text-anchor="start" dominant-baseline="alphabetic">minutos</text>
+</g>
+<g transform="translate(622,504) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-26.058448791503906" y="-6" text-anchor="start" dominant-baseline="alphabetic">dúvidas</text>
+</g>
+<g transform="translate(456,196) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-28.345870971679688" y="-6" text-anchor="start" dominant-baseline="alphabetic">Conheça</text>
+</g>
+<g transform="translate(582,272) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-22.048362731933594" y="-6" text-anchor="start" dominant-baseline="alphabetic">custos</text>
+</g>
+<g transform="translate(630,254) rotate(59.8947564215231,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-18.553665161132812" y="-6" text-anchor="start" dominant-baseline="alphabetic">Brasil</text>
+</g>
+<g transform="translate(734,268) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-21.935401916503906" y="-6" text-anchor="start" dominant-baseline="alphabetic">acesso</text>
+</g>
+<g transform="translate(676,608) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-20.579879760742188" y="-6" text-anchor="start" dominant-baseline="alphabetic">Quero</text>
+</g>
+<g transform="translate(504,444) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-16.21680450439453" y="-6" text-anchor="start" dominant-baseline="alphabetic">todo</text>
+</g>
+<g transform="translate(408,404) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-15.793205261230469" y="-6" text-anchor="start" dominant-baseline="alphabetic">time</text>
+</g>
+<g transform="translate(506,504) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-13.442230224609375" y="-6" text-anchor="start" dominant-baseline="alphabetic">Fale</text>
+</g>
+<g transform="translate(464,468) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-15.306068420410156" y="-6" text-anchor="start" dominant-baseline="alphabetic">Blog</text>
+</g>
+<g transform="translate(392,420) rotate(-25.55149028462947,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-15.334304809570312" y="-6" text-anchor="start" dominant-baseline="alphabetic">APIs</text>
+</g>
+<g transform="translate(444,324) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="14.1246px" font-style="normal" font-weight="bold" x="-11.253631591796875" y="-6" text-anchor="start" dominant-baseline="alphabetic">aos</text>
+</g>
+<g transform="translate(428,488) rotate(-31.136955824744486,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-28.672218322753906" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">digitalizados</text>
+</g>
+<g transform="translate(756,228) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-29.086265563964844" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">transparente</text>
+</g>
+<g transform="translate(382,264) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-27.039588928222656" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Tradicionais</text>
+</g>
+<g transform="translate(208,484) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-28.921592712402344" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">responsáveis</text>
+</g>
+<g transform="translate(292,576) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-29.71672821044922" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Engajamento</text>
+</g>
+<g transform="translate(754,220) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-26.592613220214844" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">consolidada</text>
+</g>
+<g transform="translate(756,444) rotate(-85.34121538129533,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-26.597328186035156" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">colaborador</text>
+</g>
+<g transform="translate(756,548) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-25.80218505859375" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Cadastre-se</text>
+</g>
+<g transform="translate(688,616) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-25.722198486328125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">totalmente</text>
+</g>
+<g transform="translate(678,444) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-23.176803588867188" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Relatórios</text>
+</g>
+<g transform="translate(748,252) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.72296142578125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">relatórios</text>
+</g>
+<g transform="translate(222,524) rotate(-67.74299340537524,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-25.082321166992188" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">precisamos</text>
+</g>
+<g transform="translate(750,212) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-23.15326690673828" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">fantástico</text>
+</g>
+<g transform="translate(310,556) rotate(-14.219340130134842,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-23.430862426757812" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">exclusivos</text>
+</g>
+<g transform="translate(424,708) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-25.830413818359375" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">economizar</text>
+</g>
+<g transform="translate(678,642) rotate(66.96033068863736,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-26.493820190429688" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Automatize</text>
+</g>
+<g transform="translate(268,212) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.633560180664062" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">valorizam</text>
+</g>
+<g transform="translate(690,638) rotate(56.25127212321854,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-22.485153198242188" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">segurança</text>
+</g>
+<g transform="translate(762,512) rotate(73.6391942761313,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-24.66827392578125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Sambatech</text>
+</g>
+<g transform="translate(316,604) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-22.301681518554688" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Processos</text>
+</g>
+<g transform="translate(300,592) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.72295379638672" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">prestação</text>
+</g>
+<g transform="translate(748,200) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.012489318847656" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">potencial</text>
+</g>
+<g transform="translate(396,720) rotate(47.789657848025996,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-23.03094482421875" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Passagens</text>
+</g>
+<g transform="translate(346,124) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-22.555740356445312" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Horizonte</text>
+</g>
+<g transform="translate(748,188) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.7794189453125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">dispostos</text>
+</g>
+<g transform="translate(572,236) rotate(85.08425201428693,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-20.297325134277344" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">agilidade</text>
+</g>
+<g transform="translate(688,128) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-22.080535888671875" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">modernas</text>
+</g>
+<g transform="translate(694,332) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-19.873886108398438" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">inovação</text>
+</g>
+<g transform="translate(312,144) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-21.868804931640625" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Economia</text>
+</g>
+<g transform="translate(352,664) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-20.8619384765625" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">desconto</text>
+</g>
+<g transform="translate(284,468) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-17.399063110351562" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Solução</text>
+</g>
+<g transform="translate(572,376) rotate(59.6012801624885,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-16.227523803710938" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">reserva</text>
+</g>
+<g transform="translate(424,716) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-17.789573669433594" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">redução</text>
+</g>
+<g transform="translate(360,672) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-16.876800537109375" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Elimine</text>
+</g>
+<g transform="translate(318,632) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-18.58001708984375" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Content</text>
+</g>
+<g transform="translate(768,566) rotate(62.043139024323935,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-17.394363403320312" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">acordos</text>
+</g>
+<g transform="translate(200,512) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-16.472183227539062" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">sempre</text>
+</g>
+<g transform="translate(354,244) rotate(-70.62386565630372,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-16.90033721923828" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Sempre</text>
+</g>
+<g transform="translate(384,288) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-14.303176879882812" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">rápido</text>
+</g>
+<g transform="translate(378,436) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-15.493553161621094" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Nossas</text>
+</g>
+<g transform="translate(316,136) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-16.801528930664062" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">mínima</text>
+</g>
+<g transform="translate(422,596) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-15.277107238769531" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">header</text>
+</g>
+<g transform="translate(636,548) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-14.279655456542969" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Fatura</text>
+</g>
+<g transform="translate(686,352) rotate(76.79099729449993,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-13.96441650390625" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">fatura</text>
+</g>
+<g transform="translate(434,144) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-14.919532775878906" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">contas</text>
+</g>
+<g transform="translate(512,360) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.407058715820312" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">único</text>
+</g>
+<g transform="translate(650,408) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.527229309082031" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">ágeis</text>
+</g>
+<g transform="translate(630,472) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.08026123046875" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">total</text>
+</g>
+<g transform="translate(422,204) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.800125122070312" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Total</text>
+</g>
+<g transform="translate(360,528) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.430595397949219" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">sobre</text>
+</g>
+<g transform="translate(732,276) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.783462524414062" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">setup</text>
+</g>
+<g transform="translate(260,584) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.4964599609375" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">preço</text>
+</g>
+<g transform="translate(436,442) rotate(56.967110448429544,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-13.277488708496094" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">ponta</text>
+</g>
+<g transform="translate(698,116) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-15.531181335449219" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">podem</text>
+</g>
+<g transform="translate(312,544) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.811691284179688" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">perde</text>
+</g>
+<g transform="translate(256,460) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-13.112815856933594" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">novas</text>
+</g>
+<g transform="translate(448,688) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.661140441894531" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">nossa</text>
+</g>
+<g transform="translate(352,680) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-13.2069091796875" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">gente</text>
+</g>
+<g transform="translate(308,584) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.87286376953125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Gasto</text>
+</g>
+<g transform="translate(568,316) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-9.753440856933594" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">fácil</text>
+</g>
+<g transform="translate(326,500) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.282577514648438" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">carro</text>
+</g>
+<g transform="translate(410,664) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.054183959960938" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">anual</text>
+</g>
+<g transform="translate(602,292) rotate(61.10023762122272,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.546051025390625" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Tudo</text>
+</g>
+<g transform="translate(524,264) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-10.021629333496094" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">tech</text>
+</g>
+<g transform="translate(310,568) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-11.141426086425781" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Rock</text>
+</g>
+<g transform="translate(598,348) rotate(63.420886200860124,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-10.845008850097656" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Quer</text>
+</g>
+<g transform="translate(202,476) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-12.195350646972656" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">POST</text>
+</g>
+<g transform="translate(500,512) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-9.301765441894531" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">pela</text>
+</g>
+<g transform="translate(656,356) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-9.927536010742188" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">Belo</text>
+</g>
+<g transform="translate(450,356) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-6.652862548828125" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">ter</text>
+</g>
+<g transform="translate(548,404) rotate(-55.081235323627226,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-7.151588439941406" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">mil</text>
+</g>
+<g transform="translate(498,392) rotate(85.03541132646357,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-6.864585876464844" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">era</text>
+</g>
+<g transform="translate(516,352) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="9.41641px" font-style="normal" font-weight="bold" x="-5.095512390136719" y="-3.83751220703125" text-anchor="start" dominant-baseline="alphabetic">só</text>
+</g>
+<g transform="translate(308,112) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-27.203475952148438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">contao@voelevel.com.br</text>
+</g>
+<g transform="translate(192,520) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-18.428611755371094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">application/json</text>
+</g>
+<g transform="translate(768,588) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-17.94922637939453" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">pré-configurada</text>
+</g>
+<g transform="translate(784,206) rotate(69.78589478099121,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-17.8740234375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">funcionalidades</text>
+</g>
+<g transform="translate(742,152) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.850685119628906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">possibilidades</text>
+</g>
+<g transform="translate(300,124) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-18.684783935546875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Democratizamos</text>
+</g>
+<g transform="translate(190,528) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-16.959884643554688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">transformando</text>
+</g>
+<g transform="translate(244,572) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.468894958496094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">profissionais</text>
+</g>
+<g transform="translate(766,596) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.9000244140625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">produtividade</text>
+</g>
+<g transform="translate(702,104) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-16.024574279785156" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ponta-a-ponta</text>
+</g>
+<g transform="translate(762,604) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-16.781280517578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Desenvolvedor</text>
+</g>
+<g transform="translate(396,740) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.833137512207031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">descentralize</text>
+</g>
+<g transform="translate(790,188) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-16.724884033203125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">cancelamentos</text>
+</g>
+<g transform="translate(730,124) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.784873962402344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Authorization</text>
+</g>
+<g transform="translate(706,620) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.103546142578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">solicitações</text>
+</g>
+<g transform="translate(734,350) rotate(-74.97462743350245,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.627593994140625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">simplificada</text>
+</g>
+<g transform="translate(388,732) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.478286743164062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">proporcionar</text>
+</g>
+<g transform="translate(166,494) rotate(-58.89503617751848,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.0657958984375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">precisávamos</text>
+</g>
+<g transform="translate(446,544) rotate(-22.62935452977045,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.245635986328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Laboratórios</text>
+</g>
+<g transform="translate(174,510) rotate(-58.954896389244034,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.698081970214844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">inteligentes</text>
+</g>
+<g transform="translate(230,204) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.967239379882812" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ineficiência</text>
+</g>
+<g transform="translate(738,132) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.404197692871094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">customizados</text>
+</g>
+<g transform="translate(804,200) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.23858642578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Corporativas</text>
+</g>
+<g transform="translate(762,612) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.587478637695312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Content-Type</text>
+</g>
+<g transform="translate(272,140) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.787391662597656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">consultorias</text>
+</g>
+<g transform="translate(754,626) rotate(-59.35100107699223,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.067039489746094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Consultorias</text>
+</g>
+<g transform="translate(280,132) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.927139282226562" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">concentradas</text>
+</g>
+<g transform="translate(366,704) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.034286499023438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">tradicional</text>
+</g>
+<g transform="translate(382,724) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.906150817871094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">respectivos</text>
+</g>
+<g transform="translate(194,536) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.595939636230469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">praticidade</text>
+</g>
+<g transform="translate(788,180) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.022392272949219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">mensalidade</text>
+</g>
+<g transform="translate(756,144) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.987152099609375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">informações</text>
+</g>
+<g transform="translate(214,192) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.675849914550781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fantásticos</text>
+</g>
+<g transform="translate(710,96) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.212890625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">facilitando</text>
+</g>
+<g transform="translate(434,256) rotate(38.736586248076755,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.782691955566406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">encontradas</text>
+</g>
+<g transform="translate(654,288) rotate(57.40893404957696,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.760444641113281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">disponíveis</text>
+</g>
+<g transform="translate(480,214) rotate(78.97224796250939,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.873092651367188" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">depoimentos</text>
+</g>
+<g transform="translate(732,116) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-15.12689208984375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Depoimentos</text>
+</g>
+<g transform="translate(774,152) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.847389221191406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">corporativa</text>
+</g>
+<g transform="translate(288,104) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-13.514793395996094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">consolidado</text>
+</g>
+<g transform="translate(736,108) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.741500854492188" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conseguimos</text>
+</g>
+<g transform="translate(774,620) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.297492980957031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conciliação</text>
+</g>
+<g transform="translate(264,124) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.391342163085938" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Agronegócio</text>
+</g>
+<g transform="translate(718,88) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.067207336425781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Vem pra cá</text>
+</g>
+<g transform="translate(524,160) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.983848571777344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">solicitado</text>
+</g>
+<g transform="translate(770,628) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.358604431152344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">permission</text>
+</g>
+<g transform="translate(746,652) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.69354248046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Inventário</text>
+</g>
+<g transform="translate(556,170) rotate(-20.513578753870576,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.816841125488281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">importante</text>
+</g>
+<g transform="translate(772,136) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.271499633789062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">hospedagem</text>
+</g>
+<g transform="translate(766,636) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.950798034667969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">franqueado</text>
+</g>
+<g transform="translate(734,668) rotate(-58.001916360231256,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.476104736328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fornecedor</text>
+</g>
+<g transform="translate(198,184) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.465599060058594" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">financeiro</text>
+</g>
+<g transform="translate(242,140) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.623046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Financeiro</text>
+</g>
+<g transform="translate(720,320) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.066108703613281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">esclarecer</text>
+</g>
+<g transform="translate(620,196) rotate(-10.601499083514902,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.98370361328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Economizar</text>
+</g>
+<g transform="translate(278,600) rotate(43.06700107456429,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-14.125801086425781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">economizam</text>
+</g>
+<g transform="translate(744,496) rotate(9.789851846848356,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.726455688476562" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">disposição</text>
+</g>
+<g transform="translate(454,340) rotate(-33.23695961780438,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.438644409179688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">digitalize</text>
+</g>
+<g transform="translate(250,132) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.45965576171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">cuidadosos</text>
+</g>
+<g transform="translate(266,116) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.680549621582031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Construção</text>
+</g>
+<g transform="translate(738,100) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.172950744628906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conseguirá</text>
+</g>
+<g transform="translate(696,504) rotate(29.068515338351748,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.388046264648438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conciliado</text>
+</g>
+<g transform="translate(314,640) rotate(36.76155767415519,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.1553955078125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conciliada</text>
+</g>
+<g transform="translate(762,124) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.352798461914062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">buroracria</text>
+</g>
+<g transform="translate(688,424) rotate(43.28378123073196,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.006103515625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">atenciosos</text>
+</g>
+<g transform="translate(388,572) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.183601379394531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">acionistas</text>
+</g>
+<g transform="translate(636,332) rotate(65.51532883832141,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.653602600097656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Acionistas</text>
+</g>
+<g transform="translate(442,576) rotate(-52.62379235413193,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.947349548339844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Vantagens</text>
+</g>
+<g transform="translate(652,576) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.574951171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">validados</text>
+</g>
+<g transform="translate(818,180) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.341064453125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">sugestões</text>
+</g>
+<g transform="translate(762,644) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.619453430175781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Segmentos</text>
+</g>
+<g transform="translate(696,152) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.741806030273438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">reservada</text>
+</g>
+<g transform="translate(786,144) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.451499938964844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">realmente</text>
+</g>
+<g transform="translate(690,336) rotate(12.717874476647427,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.624298095703125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Potencial</text>
+</g>
+<g transform="translate(712,600) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.55035400390625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">políticas</text>
+</g>
+<g transform="translate(792,602) rotate(-56.01459893422582,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.6595458984375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">planejada</text>
+</g>
+<g transform="translate(376,716) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.532661437988281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">paperless</text>
+</g>
+<g transform="translate(814,172) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.849746704101562" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Pagamento</text>
+</g>
+<g transform="translate(724,80) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.567901611328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">múltiplas</text>
+</g>
+<g transform="translate(762,116) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.858055114746094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">matadores</text>
+</g>
+<g transform="translate(752,660) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.76654052734375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">intuitiva</text>
+</g>
+<g transform="translate(800,152) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.250656127929688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">interface</text>
+</g>
+<g transform="translate(812,164) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.416404724121094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">incríveis</text>
+</g>
+<g transform="translate(226,560) rotate(33.213722772935895,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.574958801269531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Hospitais</text>
+</g>
+<g transform="translate(260,108) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.760604858398438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Franquias</text>
+</g>
+<g transform="translate(746,92) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.366912841796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">feedbacks</text>
+</g>
+<g transform="translate(752,668) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.591407775878906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">exclusivo</text>
+</g>
+<g transform="translate(496,152) rotate(7.133203083447483,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.709999084472656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">encontrou</text>
+</g>
+<g transform="translate(734,688) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.154159545898438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Economize</text>
+</g>
+<g transform="translate(720,700) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.715950012207031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">duplicada</text>
+</g>
+<g transform="translate(764,108) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.07440185546875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">distância</text>
+</g>
+<g transform="translate(772,652) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.339950561523438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">controlar</text>
+</g>
+<g transform="translate(334,196) rotate(-50.01858422348624,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.312850952148438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">constante</text>
+</g>
+<g transform="translate(414,474) rotate(-72.93364602011964,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.9674072265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">configure</text>
+</g>
+<g transform="translate(748,676) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.873405456542969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">confiança</text>
+</g>
+<g transform="translate(610,516) rotate(75.25094677826142,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.631202697753906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">comprando</text>
+</g>
+<g transform="translate(734,72) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.95440673828125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">companies</text>
+</g>
+<g transform="translate(536,480) rotate(-44.76051823139245,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.234054565429688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Companies</text>
+</g>
+<g transform="translate(790,128) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-12.210548400878906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">companhia</text>
+</g>
+<g transform="translate(792,636) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.066108703613281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">cobranças</text>
+</g>
+<g transform="translate(750,84) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.315200805664062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">aprovação</text>
+</g>
+<g transform="translate(764,100) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.382255554199219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">aplicados</text>
+</g>
+<g transform="translate(800,136) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.188301086425781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">aeroporto</text>
+</g>
+<g transform="translate(788,644) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.915695190429688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">adaptável</text>
+</g>
+<g transform="translate(334,466) rotate(-85.27671730116415,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.9674072265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">whatsapp</text>
+</g>
+<g transform="translate(724,708) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.421112060546875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">startups</text>
+</g>
+<g transform="translate(788,120) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.686668395996094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">soluções</text>
+</g>
+<g transform="translate(812,144) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.79241943359375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">sistemas</text>
+</g>
+<g transform="translate(824,156) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.708900451660156" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Shopping</text>
+</g>
+<g transform="translate(702,398) rotate(72.91418648452405,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.216667175292969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">reservas</text>
+</g>
+<g transform="translate(566,320) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.033363342285156" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">reservar</text>
+</g>
+<g transform="translate(776,660) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.399971008300781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">recursos</text>
+</g>
+<g transform="translate(490,520) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.183761596679688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">próprias</text>
+</g>
+<g transform="translate(626,188) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.56805419921875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Política</text>
+</g>
+<g transform="translate(750,508) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.028648376464844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Planilha</text>
+</g>
+<g transform="translate(836,164) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.3963623046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">passando</text>
+</g>
+<g transform="translate(218,546) rotate(-65.33757466676911,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.948616027832031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">passagem</text>
+</g>
+<g transform="translate(744,696) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.362358093261719" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">otimizar</text>
+</g>
+<g transform="translate(628,370) rotate(-80.1933643473204,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.9193115234375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Organize</text>
+</g>
+<g transform="translate(788,112) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.439918518066406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">oferecer</text>
+</g>
+<g transform="translate(776,668) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.824066162109375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">no-shows</text>
+</g>
+<g transform="translate(760,684) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.706565856933594" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">mercados</text>
+</g>
+<g transform="translate(728,716) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.900505065917969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">melhoria</text>
+</g>
+<g transform="translate(744,64) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.40106201171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">melhores</text>
+</g>
+<g transform="translate(772,92) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.40576171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">marcação</text>
+</g>
+<g transform="translate(796,652) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.795860290527344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">managers</text>
+</g>
+<g transform="translate(772,676) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.473907470703125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Managers</text>
+</g>
+<g transform="translate(290,220) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.193153381347656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">location</text>
+</g>
+<g transform="translate(362,624) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.06390380859375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">integrar</text>
+</g>
+<g transform="translate(722,576) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.106208801269531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">insights</text>
+</g>
+<g transform="translate(760,76) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.945152282714844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">inovador</text>
+</g>
+<g transform="translate(422,724) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.351860046386719" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Incrível</text>
+</g>
+<g transform="translate(678,478) rotate(60.258519251861195,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.965202331542969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">garantir</text>
+</g>
+<g transform="translate(358,536) rotate(82.76659779055709,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.07330322265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Gabriela</text>
+</g>
+<g transform="translate(788,104) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.491607666015625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">franquia</text>
+</g>
+<g transform="translate(816,128) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.262405395507812" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Fernanda</text>
+</g>
+<g transform="translate(824,136) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.055610656738281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">explicam</text>
+</g>
+<g transform="translate(836,148) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.001556396484375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">evolução</text>
+</g>
+<g transform="translate(706,628) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.911163330078125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">especial</text>
+</g>
+<g transform="translate(776,84) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.878105163574219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">entregam</text>
+</g>
+<g transform="translate(812,120) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.290603637695312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">entender</text>
+</g>
+<g transform="translate(768,68) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.9674072265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">employee</text>
+</g>
+<g transform="translate(796,96) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.321159362792969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">destaque</text>
+</g>
+<g transform="translate(758,452) rotate(73.93553345272107,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.303459167480469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">demandas</text>
+</g>
+<g transform="translate(812,112) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.545669555664062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">decisões</text>
+</g>
+<g transform="translate(760,56) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.862907409667969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">data-raw</text>
+</g>
+<g transform="translate(784,76) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.656105041503906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">convidar</text>
+</g>
+<g transform="translate(812,104) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.751205444335938" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">conteúdo</text>
+</g>
+<g transform="translate(848,140) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.030853271484375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Conteúdo</text>
+</g>
+<g transform="translate(800,88) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.955650329589844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Contando</text>
+</g>
+<g transform="translate(694,206) rotate(85.56680201468018,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.462158203125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Conhecer</text>
+</g>
+<g transform="translate(842,128) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.240013122558594" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">composto</text>
+</g>
+<g transform="translate(836,120) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.234207153320312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Cobrança</text>
+</g>
+<g transform="translate(702,132) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.476409912109375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Clínicas</text>
+</g>
+<g transform="translate(366,466) rotate(69.23099665540687,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.550361633300781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">cadastro</text>
+</g>
+<g transform="translate(784,60) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.586708068847656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">bagagens</text>
+</g>
+<g transform="translate(794,68) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.53375244140625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">aumentou</text>
+</g>
+<g transform="translate(820,96) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.076751708984375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">atendido</text>
+</g>
+<g transform="translate(836,112) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.04620361328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">amigável</text>
+</g>
+<g transform="translate(242,214) rotate(24.28659551700929,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.352958679199219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">aluguéis</text>
+</g>
+<g transform="translate(776,48) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.535003662109375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">adorando</text>
+</g>
+<g transform="translate(808,80) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.939201354980469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">abandone</text>
+</g>
+<g transform="translate(762,576) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.020515441894531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">valores</text>
+</g>
+<g transform="translate(358,684) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.353118896484375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">tarifas</text>
+</g>
+<g transform="translate(802,208) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.025215148925781" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Sólides</text>
+</g>
+<g transform="translate(482,450) rotate(-25.228033694125163,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.746665954589844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">suporte</text>
+</g>
+<g transform="translate(540,416) rotate(-12.338353916368968,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.868873596191406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Sucesso</text>
+</g>
+<g transform="translate(650,378) rotate(-27.188917412742395,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.523406982421875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Startup</text>
+</g>
+<g transform="translate(480,242) rotate(76.97003347506167,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.646720886230469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">somadas</text>
+</g>
+<g transform="translate(398,748) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.177970886230469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">rockers</text>
+</g>
+<g transform="translate(782,562) rotate(59.973870987278154,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.929969787597656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Reserve</text>
+</g>
+<g transform="translate(394,294) rotate(23.26668571769393,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.612716674804688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">request</text>
+</g>
+<g transform="translate(624,168) rotate(-50.555354613097784,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.575119018554688" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Release</text>
+</g>
+<g transform="translate(818,188) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.9171142578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">relação</text>
+</g>
+<g transform="translate(194,176) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.877166748046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">reduzir</text>
+</g>
+<g transform="translate(794,628) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.062820434570312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">recibos</text>
+</g>
+<g transform="translate(798,660) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.788970947265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Recibos</text>
+</g>
+<g transform="translate(834,104) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.335418701171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">receber</text>
+</g>
+<g transform="translate(824,88) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.496315002441406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">próximo</text>
+</g>
+<g transform="translate(600,440) rotate(-48.88927965204271,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.7150115966796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">prática</text>
+</g>
+<g transform="translate(858,120) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.204910278320312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">produto</text>
+</g>
+<g transform="translate(694,242) rotate(83.30625455951547,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.121414184570312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">premium</text>
+</g>
+<g transform="translate(798,52) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.830169677734375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">precisa</text>
+</g>
+<g transform="translate(808,60) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.069709777832031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Podendo</text>
+</g>
+<g transform="translate(820,72) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.940460205078125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">podendo</text>
+</g>
+<g transform="translate(844,96) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-10.3023681640625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">podemos</text>
+</g>
+<g transform="translate(858,112) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.302520751953125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">pessoal</text>
+</g>
+<g transform="translate(830,80) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.511672973632812" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">oferece</text>
+</g>
+<g transform="translate(854,104) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.138015747070312" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ocultas</text>
+</g>
+<g transform="translate(794,40) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.92291259765625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">negócio</text>
+</g>
+<g transform="translate(848,78) rotate(-58.79804333487005,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-11.033210754394531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">momento</text>
+</g>
+<g transform="translate(648,144) rotate(-50.86793988376967,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.967559814453125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Melhore</text>
+</g>
+<g transform="translate(818,52) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-9.141456604003906" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Manoela</text>
+</g>
+<g transform="translate(830,64) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.281364440917969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Integre</text>
+</g>
+<g transform="translate(814,44) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.746673583984375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">imersos</text>
+</g>
+<g transform="translate(858,88) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.868865966796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">groupId</text>
+</g>
+<g transform="translate(814,36) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.878265380859375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">grandes</text>
+</g>
+<g transform="translate(838,56) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.683219909667969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Fraudes</text>
+</g>
+<g transform="translate(862,80) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.564613342285156" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">extrair</text>
+</g>
+<g transform="translate(850,64) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.2967071533203125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">digital</text>
+</g>
+<g transform="translate(834,44) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.894721984863281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">despesa</text>
+</g>
+<g transform="translate(862,72) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.335418701171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">decisão</text>
+</g>
+<g transform="translate(858,56) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.734916687011719" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Cobucci</text>
+</g>
+<g transform="translate(598,176) rotate(10.684753534053502,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.9865264892578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ágeis2</text>
+</g>
+<g transform="translate(540,332) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.720970153808594" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">vários</text>
+</g>
+<g transform="translate(580,396) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.086463928222656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">viajar</text>
+</g>
+<g transform="translate(476,270) rotate(-7.505002910046971,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-8.185020446777344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Vendas</text>
+</g>
+<g transform="translate(424,312) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.908966064453125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">varejo</text>
+</g>
+<g transform="translate(588,472) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.927764892578125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Valley</text>
+</g>
+<g transform="translate(660,432) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.93011474609375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Travel</text>
+</g>
+<g transform="translate(496,160) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.0429229736328125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">soluçã</text>
+</g>
+<g transform="translate(692,450) rotate(27.635467942883146,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.91131591796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">rápida</text>
+</g>
+<g transform="translate(424,556) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.904273986816406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">regras</text>
+</g>
+<g transform="translate(420,250) rotate(-58.99581610410606,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.4353790283203125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">nossas</text>
+</g>
+<g transform="translate(724,312) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.220420837402344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Início</text>
+</g>
+<g transform="translate(742,468) rotate(-68.27111328243076,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.27557373046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Furtos</text>
+</g>
+<g transform="translate(524,362) rotate(1.3384541414837177,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.30377197265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Fechar</text>
+</g>
+<g transform="translate(328,260) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.1557159423828125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Direto</text>
+</g>
+<g transform="translate(320,504) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.742118835449219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">clique</text>
+</g>
+<g transform="translate(644,200) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.746826171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">carros</text>
+</g>
+<g transform="translate(728,284) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.172172546386719" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Bearer</text>
+</g>
+<g transform="translate(364,200) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.5705718994140625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">arrasa</text>
+</g>
+<g transform="translate(760,472) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.86431884765625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Afinal</text>
+</g>
+<g transform="translate(368,596) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.394317626953125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">afinal</text>
+</g>
+<g transform="translate(302,248) rotate(32.49869408114879,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.682121276855469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">adesão</text>
+</g>
+<g transform="translate(216,444) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.824371337890625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ótimo</text>
+</g>
+<g transform="translate(380,124) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.18048095703125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">vezes</text>
+</g>
+<g transform="translate(410,382) rotate(85.97729091905423,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.154624938964844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Tupis</text>
+</g>
+<g transform="translate(708,636) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.810272216796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">tomar</text>
+</g>
+<g transform="translate(458,400) rotate(51.8215140286089,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.6269683837890625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">token</text>
+</g>
+<g transform="translate(332,668) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.276824951171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">todas</text>
+</g>
+<g transform="translate(796,620) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.785675048828125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">tipos</text>
+</g>
+<g transform="translate(196,168) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.092277526855469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">temos</text>
+</g>
+<g transform="translate(240,124) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.422523498535156" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Sobre</text>
+</g>
+<g transform="translate(482,330) rotate(6.372207094527368,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.4225311279296875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">senso</text>
+</g>
+<g transform="translate(264,100) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.87261962890625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Saiba</text>
+</g>
+<g transform="translate(744,704) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.2498779296875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">reais</text>
+</g>
+<g transform="translate(514,246) rotate(85.42472467137107,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.370826721191406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Preço</text>
+</g>
+<g transform="translate(844,156) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.890174865722656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">pouco</text>
+</g>
+<g transform="translate(764,692) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.9901275634765625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">pelos</text>
+</g>
+<g transform="translate(864,96) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.662223815917969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Pedro</text>
+</g>
+<g transform="translate(720,378) rotate(-79.20786029814792,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.0817718505859375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">papel</text>
+</g>
+<g transform="translate(832,36) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.851470947265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ouvir</text>
+</g>
+<g transform="translate(852,48) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.522468566894531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">nível</text>
+</g>
+<g transform="translate(260,592) rotate(37.32848599108508,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-7.2802734375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">menor</text>
+</g>
+<g transform="translate(344,688) rotate(42.625021922227084,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.980720520019531" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Level</text>
+</g>
+<g transform="translate(540,386) rotate(72.32855667658143,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.30157470703125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">gerir</text>
+</g>
+<g transform="translate(506,308) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.871528625488281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fácil</text>
+</g>
+<g transform="translate(612,362) rotate(73.66027460705199,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.095878601074219" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fluxo</text>
+</g>
+<g transform="translate(532,270) rotate(-33.20062331581658,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.617576599121094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">dados</text>
+</g>
+<g transform="translate(450,328) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.89031982421875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Civil</text>
+</g>
+<g transform="translate(560,274) rotate(32.16151810101899,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-6.1475830078125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Cases</text>
+</g>
+<g transform="translate(446,270) rotate(-37.92197377688391,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.099479675292969" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Área</text>
+</g>
+<g transform="translate(410,408) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.0560760498046875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">ágil</text>
+</g>
+<g transform="translate(704,352) rotate(-42.690960246930274,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.882026672363281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">toma</text>
+</g>
+<g transform="translate(442,308) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.392127990722656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Tire</text>
+</g>
+<g transform="translate(626,424) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.5237274169921875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">terá</text>
+</g>
+<g transform="translate(610,472) rotate(23.787095235401146,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.5354766845703125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Seja</text>
+</g>
+<g transform="translate(602,276) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.370979309082031" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">role</text>
+</g>
+<g transform="translate(518,210) rotate(-58.458553237872394,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.106529235839844" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">quer</text>
+</g>
+<g transform="translate(750,392) rotate(-89.72999558953389,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.909126281738281" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">hoje</text>
+</g>
+<g transform="translate(474,370) rotate(-33.519317118297955,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.161834716796875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fica</text>
+</g>
+<g transform="translate(618,288) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.8174896240234375" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">fees</text>
+</g>
+<g transform="translate(454,532) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.22528076171875" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">curl</text>
+</g>
+<g transform="translate(490,360) rotate(-25.43087026128969,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.751686096191406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">café</text>
+</g>
+<g transform="translate(478,306) rotate(-51.90442251378266,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.789283752441406" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">vem</text>
+</g>
+<g transform="translate(498,390) rotate(-52.975801840949956,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.2476806640625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">vai</text>
+</g>
+<g transform="translate(642,276) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.68243408203125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Ter</text>
+</g>
+<g transform="translate(478,428) rotate(87.48304925288518,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.4638824462890625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Tel</text>
+</g>
+<g transform="translate(396,438) rotate(61.72566985130594,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.9691314697265625" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Sua</text>
+</g>
+<g transform="translate(390,504) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.9738388061523438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">sim</text>
+</g>
+<g transform="translate(738,364) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.9926300048828125" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">San</text>
+</g>
+<g transform="translate(642,508) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.298133850097656" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Rua</text>
+</g>
+<g transform="translate(422,208) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-5.014884948730469" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">RDV</text>
+</g>
+<g transform="translate(390,232) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.7693862915039062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">paz</text>
+</g>
+<g transform="translate(606,208) rotate(0,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.011436462402344" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">nos</text>
+</g>
+<g transform="translate(574,172) rotate(0,0,0)">
+<text fill="#005f61" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.7787857055664062" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">nas</text>
+</g>
+<g transform="translate(432,574) rotate(-65.52027031862565,0,0)">
+<text fill="#651d32" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-4.063133239746094" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">mal</text>
+</g>
+<g transform="translate(662,260) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.3463821411132812" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">api</text>
+</g>
+<g transform="translate(390,224) rotate(0,0,0)">
+<text fill="#41b6e6" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.3463821411132812" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">api</text>
+</g>
+<g transform="translate(358,252) rotate(0,0,0)">
+<text fill="#509e2f" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-3.9926376342773438" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">API</text>
+</g>
+<g transform="translate(564,356) rotate(0,0,0)">
+<text fill="#abad23" stroke="none" font-family="Palanquin Dark" font-size="4.70821px" font-style="normal" font-weight="bold" x="-2.9680404663085938" y="-1.916717529296875" text-anchor="start" dominant-baseline="alphabetic">Há</text>
+</g>
+</g>
+</svg>

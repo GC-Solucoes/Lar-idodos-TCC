@@ -1,0 +1,65 @@
+<div class="row">
+  <div class="col-md-12">
+
+  </div>
+</div>
+
+<!-- Forms Usuários  -->
+<div class="row">
+  <div class="col-md-12">
+      <div class="card">
+          <div class="card-body">
+              <h4 class="card-title">
+                  <span class="lstick"></span>Postagem
+                  <button class="btn btn-sm btn-primary float-right"
+                      routerLinkActive="router-link-active" [routerLink]="['criar']">
+                      Nova Postagem
+                  </button>
+
+
+              </h4>
+
+              <div class="table-responsive-lg">
+                  <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
+                      <thead>
+                        <tr>
+                          <th>ID</th>
+                          <th class="text-center">Titulo</th>
+                          <th class="text-center">Texto</th>
+                          <th class="text-center">Links</th>
+                          <th class="text-right">OPÇÕES</th>
+                          <!-- <th class="text-center">Situação</th> -->
+                          <th class=""></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let postagem of postagens ">
+                          <td>{{postagem.id}}</td>
+                          <td class="text-center">{{postagem.titulo}}</td>
+                          <td class="text-center">{{postagem.textos}}</td>
+                          <td class="text-center">{{postagem.links}}</td>
+                          <td class="text-center">
+                            <button class="btn btn secondary text-right" [routerLink]="['editar', postagem.id]">Editar</button>
+                            <button class="btn btn secondary text-right" (click)="delete(postagem.id)">Delete</button>
+                          </td>
+                        </tr>
+                      </tbody>
+                      <tfoot>
+                          <tr>
+                              <td class="text-center pt-5 pb-0" colspan="7">
+                                  <!-- <pagination-controls (pageChange)="paginaAtual = $event"
+                                      responsive="true"
+                                      previousLabel="Anterior"
+                                      nextLabel="Próximo"></pagination-controls> -->
+                                  <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls> -->
+                              </td>
+                          </tr>
+                      </tfoot>
+                  </table>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- fim users  -->

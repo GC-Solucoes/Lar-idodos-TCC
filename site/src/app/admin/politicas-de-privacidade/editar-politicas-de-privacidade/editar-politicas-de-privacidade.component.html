@@ -1,0 +1,63 @@
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+
+  <div class="jumbotron jumbotron-fluid">
+
+    <div class="container">
+      <h3 class="display-8" *ngIf="politicaPrivacidade.id"> Editar Politicas de Privacidade</h3>
+
+
+
+      <form (ngSubmit)="onSubmit()" [formGroup]="politicaDePrivacidadeForm" class="mt-4">
+
+
+
+
+        <label for="telefone" class="mb-0">Texto</label>
+        <div class="form-group bg-light text-dark" [ngClass]="aplicaCssErro('PoliticaPrivacidade')">
+          <angular-editor placeholder="Digite Sua Mensagem Aqui" [config]="editorConfig"
+            formControlName="PoliticaPrivacidade" [(ngModel)]="politicaPrivacidade.PoliticaPrivacidade"
+            id="PoliticaPrivacidade" name="PoliticaPrivacidade">
+          </angular-editor>
+          <!--
+          <ckeditor config.defaultLanguage='pt';  placeholder="Digite Sua Mensagem Aqui"   formControlName="PoliticaPrivacidade" [(ngModel)]="politicaPrivacidade.PoliticaPrivacidade"
+            id="PoliticaPrivacidade" name="PoliticaPrivacidade">
+          </ckeditor> -->
+          <app-campo-control-error [mostrarErro]="verificaValidTouched('PoliticaPrivacidade')"
+            msgErro="É Obrigatório digitar um Texto">
+          </app-campo-control-error>
+
+
+        </div>
+
+        <br />
+
+        <div class="row">
+          <div class="col-md-12">
+            <div class="form-group">
+              <button type="submit"  class="btn btn-primary float-right m-l-5 w-25">Salvar</button>
+
+              <input type="submit" value="Cancelar" [routerLink]="['/admin/politicas-de-privacidade']" class="btn btn-outline-dark float-right w-25" />
+
+
+            </div>
+          </div>
+        </div>
+
+
+
+      </form>
+
+
+    </div>
+
+  </div>
+
+
+
+</body>
+
+<router-outlet></router-outlet>
