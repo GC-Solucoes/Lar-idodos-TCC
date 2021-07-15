@@ -4,8 +4,8 @@
     <div class="container">
       <!-- LOGO -->
       <a class="navbar-brand logo" href="/">
-        <img src="assets/images/logo-sim-distribuidora.png" alt="" class="logo-dark" height="100" />
-        <img src="assets/images/logo-sim-distribuidora.png" alt="" class="logo-light" height="800" />
+        <img src="../../../assets/images/logoTransp.png" alt="" class="logo-dark" height="100" />
+        <img src="../../../assets/images/logoTransp.png" alt="" class="logo-light" height="800" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
         aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" (click)="toggleMenu()">
@@ -17,13 +17,13 @@
             <a href="javascript: void(0);" [ngxScrollTo]="'#home'" class="nav-link">Home</a>
           </li> -->
           <li class="nav-item" [ngClass]="{'active':currentSection === 'features'}">
-            <a routerLink="/" [ngxScrollTo]="'#features'" class="nav-link">Quem Somos</a>
+            <a routerLink="/" [ngxScrollTo]="'#features'" class="nav-link">Ultimas Notícias</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'pricing'}">
-            <a routerLink="/" [ngxScrollTo]="'#pricing'" class="nav-link">Nossos Valores</a>
+            <a routerLink="/" [ngxScrollTo]="'#pricing'" class="nav-link">Partidas</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'location'}">
-            <a routerLink="/" [ngxScrollTo]="'#location'" class="nav-link">Onde Estamos</a>
+            <a routerLink="/" [ngxScrollTo]="'#location'" class="nav-link">Mercado da Bola</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'contact'}">
             <a routerLink="/" [ngxScrollTo]="'#contact'" class="nav-link">Fale Conosco</a>
@@ -38,10 +38,7 @@
             <a routerLink="admin" class="nav-link">
               <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Admin</a>
           </li>
-          <li class="nav-item">
-            <a href="http://portal.simcombustiveis.com.br/" target="_blank" class="nav-link">
-              <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Portal Cliente</a>
-          </li>
+
         </ul>
       </div>
     </div>
