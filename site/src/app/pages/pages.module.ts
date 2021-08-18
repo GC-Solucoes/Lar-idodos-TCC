@@ -1,6 +1,6 @@
 import { CommonModule } from "@angular/common";
 import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from "@angular/core";
-import { ReactiveFormsModule, FormsModule } from "@angular/forms";
+import { ReactiveFormsModule } from "@angular/forms";
 import { NgbModalModule } from "@ng-bootstrap/ng-bootstrap";
 import { ScrollToModule } from "@nicky-lenaers/ngx-scroll-to";
 import { NgxMaskModule } from "ngx-mask";
@@ -10,7 +10,6 @@ import { IndexComponent } from "./index/index.component";
 import { NotFoundComponent } from "./not-found/not-found.component";
 import { PagesRoutingModule } from "./pages-routing.module";
 
-
 @NgModule({
   declarations: [IndexComponent, NotFoundComponent],
   imports: [
@@ -19,7 +18,6 @@ import { PagesRoutingModule } from "./pages-routing.module";
     SharedModule,
     ScrollToModule.forRoot(),
     NgbModalModule,
-    FormsModule,
     NgxYoutubePlayerModule,
     NgxMaskModule.forRoot(),
     ReactiveFormsModule,

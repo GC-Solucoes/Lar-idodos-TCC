@@ -29,8 +29,7 @@
             ],
             "styles": [
               "src/assets/scss/style.scss",
-              "src/assets/css/materialdesignicons.min.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "src/assets/css/materialdesignicons.min.css"
             ],
             "scripts": []
           },

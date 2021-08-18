@@ -4,42 +4,42 @@ import { HttpClient } from '@angular/common/http';
 
 @Injectable()
 export class DropdownService {
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
   // getEstadosBr() {
   //   return this.http.get<EstadoBr[]>('assets/dados/estadosbr.json');
   // }
 
-//   getCidades(idEstado: number) {
-//     return this.http.get<Cidade[]>('assets/dados/cidades.json')
-//     .pipe(
-//       // tslint:disable-next-line:triple-equals
-//       map((cidades: Cidade[]) => cidades.filter(c => c.estado == idEstado))
-//     );
-//   }
+  //   getCidades(idEstado: number) {
+  //     return this.http.get<Cidade[]>('assets/dados/cidades.json')
+  //     .pipe(
+  //       // tslint:disable-next-line:triple-equals
+  //       map((cidades: Cidade[]) => cidades.filter(c => c.estado == idEstado))
+  //     );
+  //   }
 
-//   getCargos() {
-//     return [
-//       { nome: 'Dev', nivel: 'Junior', desc: 'Dev Jr' },
-//       { nome: 'Dev', nivel: 'Pleno', desc: 'Dev Pl' },
-//       { nome: 'Dev', nivel: 'Senior', desc: 'Dev Sr' }
-//     ];
-//   }
+  //   getCargos() {
+  //     return [
+  //       { nome: 'Dev', nivel: 'Junior', desc: 'Dev Jr' },
+  //       { nome: 'Dev', nivel: 'Pleno', desc: 'Dev Pl' },
+  //       { nome: 'Dev', nivel: 'Senior', desc: 'Dev Sr' }
+  //     ];
+  //   }
 
-//   getTecnologias() {
+  //   getTecnologias() {
 
-//     return [
-//       { nome: 'java', desc: 'Java' },
-//       { nome: 'javascript', desc: 'JavaScript' },
-//       { nome: 'php', desc: 'PHP' },
-//       { nome: 'ruby', desc: 'Ruby' }
-//     ];
-//   }
+  //     return [
+  //       { nome: 'java', desc: 'Java' },
+  //       { nome: 'javascript', desc: 'JavaScript' },
+  //       { nome: 'php', desc: 'PHP' },
+  //       { nome: 'ruby', desc: 'Ruby' }
+  //     ];
+  //   }
 
-//   getNewsletter() {
-//     return [
-//       { valor: 's', desc: 'Sim' },
-//       { valor: 'n', desc: 'Não' }
-//     ];
-//   }
+  //   getNewsletter() {
+  //     return [
+  //       { valor: 's', desc: 'Sim' },
+  //       { valor: 'n', desc: 'Não' }
+  //     ];
+  //   }
 }

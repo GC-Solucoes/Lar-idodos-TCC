@@ -1,7 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { NgbModal } from "@ng-bootstrap/ng-bootstrap";
 
-
 @Component({
   selector: "app-index",
   templateUrl: "./index.component.html",
@@ -16,9 +15,7 @@ export class IndexComponent implements OnInit {
 
   constructor(private modalService: NgbModal) {}
 
-  ngOnInit(): void {
-
-  }
+  ngOnInit(): void {}
 
   /**
    * Window scroll method
@@ -64,10 +61,4 @@ export class IndexComponent implements OnInit {
   registerModal(registercontent) {
     this.modalService.open(registercontent, { centered: true });
   }
-
-
-
-
-
-
 }

@@ -1,9 +1,6 @@
 import { CommonModule } from "@angular/common";
 import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from "@angular/core";
-import { ReactiveFormsModule , FormsModule } from "@angular/forms";
-
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
-
+import { ReactiveFormsModule } from "@angular/forms";
 import { ScrollToModule } from "@nicky-lenaers/ngx-scroll-to";
 import { FeatherModule } from "angular-feather";
 import {
@@ -33,8 +30,6 @@ import {
 } from "angular-feather/icons";
 import { PagesRoutingModule } from "../pages/pages-routing.module";
 import { BlogComponent } from "./blog/blog.component";
-import { OndeEstamosComponent } from './onde-estamos/onde-estamos.component';
-import { CarrosselInicioComponent } from './carrossel-inicio/carrossel-inicio.component';
 import { ContactComponent } from "./contact/contact.component";
 import { FeaturesComponent } from "./features/features.component";
 import { FooterComponent } from "./footer/footer.component";
@@ -43,8 +38,6 @@ import { PricingComponent } from "./pricing/pricing.component";
 import { ScrollspyDirective } from "./scrollspy.directive";
 import { DropdownService } from "./services/dropdown.service";
 import { ServicesComponent } from "./services/services.component";
-import { PoliticaPrivacidadeComponent } from './footer/politica-privacidade/politica-privacidade.component';
-
 
 const icons = {
   Mail,
@@ -83,16 +76,11 @@ const icons = {
     FooterComponent,
     ScrollspyDirective,
     NavbarComponent,
-    OndeEstamosComponent,
-    CarrosselInicioComponent,
-    PoliticaPrivacidadeComponent,
   ],
   imports: [
     CommonModule,
     FeatherModule.pick(icons),
     PagesRoutingModule,
-    FormsModule ,
-    NgbModule,
     ScrollToModule.forRoot(),
     ReactiveFormsModule,
   ],
@@ -107,9 +95,6 @@ const icons = {
     FeatherModule,
     ScrollspyDirective,
     NavbarComponent,
-    OndeEstamosComponent,
-    CarrosselInicioComponent,
-
   ],
   providers: [DropdownService],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],

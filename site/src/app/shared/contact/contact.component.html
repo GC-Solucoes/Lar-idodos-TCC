@@ -1,3 +1,22 @@
+<section class="section" id="location">
+  <div class="container">
+    <div class="row"></div>
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="text-center mb-5">
+          <h3 class="title mb-3 text-azul-sim">Onde Estamos</h3>
+          <p class="text-muted font-size-15">
+
+          </p>
+
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <img src="" style="margin-left: -107px;">
+    </div>
+  </div>
+</section>
 
 <!-- Contact Us Start -->
 <section class="section" id="contact">
@@ -33,12 +52,11 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="form-group">
-                  <label for="telefone" class="text-azul-sim">Telefone*</label>
-                  <input formControlName="telefone" type="text" class="form-control" autocomplete="off"
-                    placeholder="Informe seu telefone..."
-                    [ngClass]="{ 'is-invalid': submitted && f.telefone.errors }" />
-                  <div *ngIf="submitted && f.telefone.errors" class="invalid-feedback">
-                    <div *ngIf="f.telefone.errors.required">Telefone é obrigatório</div>
+                  <label for="nome" class="text-azul-sim">Telefone*</label>
+                  <input formControlName="nome" type="text" class="form-control" autocomplete="off"
+                    placeholder="Informe seu telefone..." [ngClass]="{ 'is-invalid': submitted && f.nome.errors }" />
+                  <div *ngIf="submitted && f.nome.errors" class="invalid-feedback">
+                    <div *ngIf="f.nome.errors.required">Telefone é obrigatório</div>
                   </div>
                 </div>
               </div>
@@ -61,8 +79,7 @@
               <div class="col-lg-12">
                 <div class="form-group">
                   <label for="mensagem" class="text-azul-sim">Mensagem*</label>
-                  <textarea formControlName="mensagem" rows="4" class="form-control"
-                    placeholder="Informe sua mensagem..."
+                  <textarea formControlName="mensagem" rows="4" class="form-control" placeholder="Informe sua mensagem..."
                     [ngClass]="{ 'is-invalid': submitted && f.mensagem.errors }"></textarea>
                   <div *ngIf="submitted && f.mensagem.errors" class="invalid-feedback">
                     <div *ngIf="f.mensagem.errors.required">Mensagem é obrigatório</div>
@@ -72,22 +89,22 @@
             </div>
             <div class="row" *ngIf="formInvalid">
               <div class="col-lg-12">
-                <div class="form-group">
-                  <label style="color: red;">{{errorMessage}}</label>
-                </div>
+                  <div class="form-group">
+                      <label style="color: red;">{{errorMessage}}</label>
+                  </div>
               </div>
             </div>
             <div class="row" *ngIf="sendSuccess">
               <div class="col-lg-12">
-                <div class="form-group">
-                  <label style="color: green;">Mensagem enviado com sucesso!</label>
-                </div>
+                  <div class="form-group">
+                      <label style="color: green;">Mensagem enviado com sucesso!</label>
+                  </div>
               </div>
             </div>
             <div class="row">
               <div class="col-sm-12 text-center">
-                <button type="submit" class="btn btn-verde-sim">Enviar mensagem <i-feather
-                    class="icon-size-15 ml-2 icon" name="send"></i-feather></button>
+                <button type="submit" class="btn btn-verde-sim">Enviar mensagem <i-feather class="icon-size-15 ml-2 icon"
+                    name="send"></i-feather></button>
               </div>
             </div>
           </form>
@@ -99,22 +116,20 @@
             <i-feather class="icon-xs icon mr-1" name="mail"></i-feather> : <span>coimbrawebs@gmail.com</span>
           </p>
           <p class="">
-            <i-feather class="icon-xs icon mr-1" name="link"></i-feather> : <span>coimbrox.github.io</span>
+            <i-feather class="icon-xs icon mr-1" name="link"></i-feather> : <span>https://coimbrox.github.io/</span>
           </p>
           <p class="">
             <i-feather class="icon-xs icon mr-1" name="phone-call"></i-feather> : <span>(71) 993049142</span>
           </p>
-          <!-- <p style="margin-bottom: 0;">
-            <i-feather class="icon-xs icon mr-1" name="map-pin"></i-feather> : <span>Av. Presidente Vargas, 3700, Sala
-              04</span>
+          <p style="margin-bottom: 0;">
+            <i-feather class="icon-xs icon mr-1" name="map-pin"></i-feather> : <span>Rua Dr. Montauri, ap 403</span>
           </p>
           <p style="margin-bottom: 0;">
-            <i-feather class="icon-xs icon mr-1" name=""></i-feather>&nbsp;&nbsp;&nbsp;<span>São Sebastião - Esteio /
-              RS</span>
+            <i-feather class="icon-xs icon mr-1" name=""></i-feather>&nbsp;&nbsp;&nbsp;<span>Flores da Cunha - RS</span>
           </p>
           <p>
-            <i-feather class="icon-xs icon mr-1" name=""></i-feather>&nbsp;&nbsp;&nbsp;<span>93.265-542</span>
-          </p> -->
+            <i-feather class="icon-xs icon mr-1" name=""></i-feather>&nbsp;&nbsp;&nbsp;<span>95270000</span>
+          </p>
         </div>
       </div>
     </div>

@@ -4,8 +4,8 @@
     <div class="container">
       <!-- LOGO -->
       <a class="navbar-brand logo" href="/">
-        <img src="../../../assets/images/logoTransp.png" alt="" class="logo-dark" height="100" />
-        <img src="../../../assets/images/logoTransp.png" alt="" class="logo-light" height="800" />
+        <img src="" alt="" class="logo-dark" height="100" />
+        <img src="" alt="" class="logo-light" height="800" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
         aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" (click)="toggleMenu()">
@@ -17,13 +17,13 @@
             <a href="javascript: void(0);" [ngxScrollTo]="'#home'" class="nav-link">Home</a>
           </li> -->
           <li class="nav-item" [ngClass]="{'active':currentSection === 'features'}">
-            <a routerLink="/" [ngxScrollTo]="'#features'" class="nav-link">Ultimas Notícias</a>
+            <a routerLink="/" [ngxScrollTo]="'#features'" class="nav-link">Quem Somos</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'pricing'}">
-            <a routerLink="/" [ngxScrollTo]="'#pricing'" class="nav-link">Partidas</a>
+            <a routerLink="/" [ngxScrollTo]="'#pricing'" class="nav-link">Atividades</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'location'}">
-            <a routerLink="/" [ngxScrollTo]="'#location'" class="nav-link">Mercado da Bola</a>
+            <a routerLink="/" [ngxScrollTo]="'#location'" class="nav-link">Onde Estamos</a>
         </li>
         <li class="nav-item" [ngClass]="{'active':currentSection === 'contact'}">
             <a routerLink="/" [ngxScrollTo]="'#contact'" class="nav-link">Fale Conosco</a>
@@ -31,14 +31,9 @@
         </ul>
         <ul class="navbar-nav navbar-center">
           <li class="nav-item">
-            <a routerLink="login" class="nav-link">
-              <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Login</a>
+            <a href="" class="nav-link">
+              <i-feather class="icon-xs icon mr-1" name="lock"></i-feather> Login</a>
           </li>
-          <li class="nav-item">
-            <a routerLink="admin" class="nav-link">
-              <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Admin</a>
-          </li>
-
         </ul>
       </div>
     </div>
@@ -46,16 +41,14 @@
   <!-- Navbar End -->
   <div appScrollspy [spiedTags]="['SECTION']" (sectionChange)="onSectionChange($event)">
     <!-- Hero Start -->
-    <section class="hero-1-bg" >
-      <div class="container-flex">
-        <!-- <app-slider></app-slider> -->
+    <section class="hero-1-bg" style="background-image: url(assets/images/banner1novo.jpg); min-height: 680px; margin-top: 120px;" id="home">
+      <div class="container">
       </div>
     </section>
     <!-- Hero End -->
-    <app-carrossel-inicio></app-carrossel-inicio>
-     <app-features></app-features>
+
+    <app-features></app-features>
     <app-pricing></app-pricing>
-    <app-onde-estamos></app-onde-estamos>
     <app-contact></app-contact>
     <app-footer></app-footer>
   </div>

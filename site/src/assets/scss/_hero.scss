@@ -1,4 +1,4 @@
-/*
+/* 
 // 06.Hero
 */
 
@@ -151,7 +151,7 @@
         opacity: 0.60;
     }
     .bg-hero-overlay {
-        // background-image: url("../images/hero-5-overlay.png");
+        background-image: url("../images/hero-5-overlay.png");
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -195,7 +195,7 @@
     }
 }
 
-// ***** Responsive *****//
+// ***** Responsive *****// 
 @media (max-width: 576px) {
     .hero-1-title, .hero-2-title, .hero-4-title, .hero-5-title {
         font-size: 36px !important;
