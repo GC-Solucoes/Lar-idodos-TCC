@@ -1,0 +1,132 @@
+<body>
+
+  <div class="jumbotron jumbotron-fluid">
+
+    <div class="container">
+
+      <h3 class="display-8" *ngIf="currentId"> Editar Banner</h3>
+      <h3 class="display-8" *ngIf="!currentId"> Novo Banner</h3>
+
+
+        <div class="form-group">
+          <body>
+
+            <div class="jumbotron jumbotron-fluid">
+
+              <div class="container">
+
+
+                <h3 class="display-8" > Banner Inicial</h3>
+
+                <form method="POST" action="/banners"  (ngSubmit)="onSubmit()" [formGroup]="bannerForm" enctype="multipart/form-data" class="mt-4"   >
+
+                  <!-- <h3 class="display-8" > Banner Inicial</h3> -->
+
+                  <div class="form-group">
+
+                    <div [ngClass]="aplicaCssErro('links')">
+
+                      <label for="links"  class="mb-0">links</label>
+
+                      <input type="text" id="nome"  formControlName="links" class="form-control"  [(ngModel)]="currentString"    name="links" >
+
+                      <app-campo-control-error
+                      [mostrarErro]="verificaValidTouched('links')"
+                       msgErro="Titulo é Obrigatório">
+                    </app-campo-control-error>
+
+
+                      </div>
+          <br>
+
+                    <label for="imagens" class="mb-0">Imagens</label>
+                    <div class="form-group mt-5"  [ngClass]="aplicaCssErro('imagens')" >
+                      <div class="col-md-12">
+                        <input type="file"  [(ngModel)]="currentFile"  formControlName="imagens"  (change)="selectFile($event)"  name="profile_pic"  />
+                      </div>
+                      <app-campo-control-error
+                      [mostrarErro]="verificaValidTouched('imagens')"
+                       msgErro="Imagem é Obrigatória">
+                    </app-campo-control-error>
+
+                    </div>
+
+                  </div>
+
+
+                  <br />
+
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                                                 <!-- //edit  -->
+                          <input type="submit" value="Salvar"  class="btn btn-primary float-right m-l-5 w-25"  />
+
+                        <input type="submit" value="Cancelar" [routerLink]="['/admin/banners']"
+                          class="btn btn-outline-dark float-right w-25" />
+
+
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                </form>
+
+                <!-- 2 carousel  -->
+                <!-- <h3 class="display-8" > Banner Onde Estamos</h3>
+
+                <form  class="mt-4">
+
+                  <div class="form-group">
+
+                    <label for="Imagens" class="mb-0">Imagens</label>
+                    <div class="form-group mt-5">
+                      <div class="col-md-12">
+                        <input type="file" (change)="selectFile($event)" name="profile_pic"  />
+                      </div>
+                    </div>
+
+
+                  </div>
+
+                  <div>
+
+                  <label for="links" class="mb-0">links</label>
+
+                  <input type="text" id="nome" class="form-control"   [(ngModel)]="currentString" name="links" >
+
+                  </div>
+
+
+                  <br />
+
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+                        <input type="submit" value="Salvar"     [disabled]="!selectedFiles" (click)="upload()" value="Enviar Foto"
+                        class="btn btn-primary float-right m-l-5 w-25"  />
+
+                      <input type="submit" value="Cancelar" [routerLink]="['admin']"
+                        class="btn btn-outline-dark float-right w-25" />
+
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                </form> -->
+
+              </div>
+
+            </div>
+
+
+
+          </body>
+
+          <router-outlet></router-outlet>
+
+

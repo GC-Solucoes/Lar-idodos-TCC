@@ -1,0 +1,23 @@
+<ng-template   #content  let-modal  >
+  <div class="modal-header" >
+    <h4 class="modal-title" id="modal-basic-title">Politicas de Privacidade</h4>
+    <a class="footer-link" aria-label="Close" (click)="modal.dismiss('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </a>
+  </div>
+  <div class="modal-body" >
+    <form *ngFor="let politicaPrivacidade of PoliticaDePrivacidade">
+      <div class="form-group" >
+        <div [innerHtml]="politicaPrivacidade.PoliticaPrivacidade" ></div>
+
+      </div>
+    </form>
+  </div>
+
+</ng-template>
+<a  (click)="open(content)" class="footer-link">Política de Privacidade</a>
+<!-- <button class="btn btn-lg btn-outline-primary" (click)="open(content)">Politicas de Privacidade</button> -->
+
+<hr>
+
+

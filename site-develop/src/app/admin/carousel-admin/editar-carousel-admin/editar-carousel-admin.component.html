@@ -1,0 +1,88 @@
+<body>
+
+  <div class="jumbotron jumbotron-fluid">
+    <!-- <input type="button"  *ngIf="!banner.id" value="Editar Banner" [routerLink]="['editar', banner.id]"
+    class="btn btn-outline-dark float-right w-25" /> -->
+
+    <div class="container">
+
+      <h3 class="display-8" *ngIf="currentId"> Editar Carousel</h3>
+      <h3 class="display-8" *ngIf="!currentId"> Novo Carousel</h3>
+
+        <div class="form-group">
+          <body>
+
+            <div class="jumbotron jumbotron-fluid">
+
+              <div class="container">
+
+
+                <h3 class="display-8" > Carousel</h3>
+
+                <form method="POST" action="/banners"  (ngSubmit)="onSubmit()" [formGroup]="editarCarouselForm"  name="FormsBanner" id="FormsBanner"  enctype="multipart/form-data" class="mt-4"   >
+
+
+                  <div class="form-group">
+
+                    <div  [ngClass]="aplicaCssErro('carouselTitulo')">
+
+                      <label for="titulo"  class="mb-0">Titulo</label>
+
+                      <input type="text" id="nome"  class="form-control"  formControlName="carouselTitulo"  [(ngModel)]="currentTitulo"    name="titulo" >
+
+                      <app-campo-control-error
+                      [mostrarErro]="verificaValidTouched('carouselTitulo')"
+                       msgErro="Titulo deve ter mais que 5 letras">
+                    </app-campo-control-error>
+
+                      </div>
+         <br>
+
+                    <label for="imagens" class="mb-0">Imagens</label>
+                    <div class="form-group mt-5"  [ngClass]="aplicaCssErro('carouselImagens')">
+                      <div class="col-md-12">
+                        <input type="file"  [(ngModel)]="currentFile"  formControlName="carouselImagens"   (change)="selectFile($event)"  name="carouselImagens"  />
+                      </div>
+
+                      <app-campo-control-error
+                      [mostrarErro]="verificaValidTouched('carouselImagens')"
+                       msgErro="Imagem é Obrigatória">
+                    </app-campo-control-error>
+
+                    </div>
+
+                  </div>
+
+
+                  <br />
+
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="form-group">
+
+
+                          <input type="submit" value="Salvar"  class="btn btn-primary float-right m-l-5 w-25"  />
+
+                        <input type="submit" value="Cancelar" [routerLink]="['/admin/carousel']"
+                          class="btn btn-outline-dark float-right w-25" />
+
+
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                </form>
+
+                           </div>
+
+            </div>
+
+
+
+          </body>
+
+          <router-outlet></router-outlet>
+
+

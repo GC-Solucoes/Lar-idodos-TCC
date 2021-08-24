@@ -1,0 +1,91 @@
+<div class="app-body container-login100">
+    <main class="main d-flex align-items-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mx-auto">
+                    <div class="card-group border border-rosa-lar">
+                        <div class="card p-4">
+                            <div class="card-body">
+
+                                <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+                                    <h1>Bem vindo!</h1>
+                                    <p class="text-muted">Informe seus dados de acesso</p>
+                                    <div class="input-group mb-3">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="fa fa-user"></i></span>
+                                        </div>
+                                        <input formControlName="email" type="text" class="form-control"
+                                            placeholder="e-mail" autocomplete="email" required
+                                            [ngClass]="{ 'is-invalid': submitted && f.email.errors }">
+
+                                        <div *ngIf="submitted && f.email.errors" class="invalid-feedback">
+                                            <div *ngIf="f.email.errors.required">E-mail é obrigatório</div>
+                                        </div>
+                                    </div>
+                                    <div class="input-group mb-4">
+                                        <div class="input-group-prepend">
+                                            <span class="input-group-text"><i class="fa fa-lock"></i></span>
+                                        </div>
+                                        <input formControlName="password" type="password" class="form-control"
+                                            placeholder="senha" autocomplete="current-password" required
+                                            [ngClass]="{ 'is-invalid': submitted && f.password.errors }">
+                                        <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                                            <div *ngIf="f.password.errors.required">Senha é obrigatório</div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+
+                                            <button [disabled]="loading" type="submit" class="btn btn-primary w-100">
+                                                <span *ngIf="loading"
+                                                    class="spinner-border spinner-border-sm mr-1"></span>
+                                                Login
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div [hidden]="false">
+                                        <div class="col-12 text-right">
+                                            <button type="button" class="btn btn-link px-0 mt-2"
+                                                [routerLink]="['/esqueci-minha-senha']"
+                                                routerLinkActive="router-link-active">Esqueceu sua senha?</button>
+                                        </div>
+                                    </div>
+                                    <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+                                </form>
+
+                            </div>
+                            <ul class="text-center dev-icons text-rosa-lar">
+
+                                <li class="list-inline-item text-rosa-lar">
+                                    <a class="text-rosa-lar" href="https://www.linkedin.com/company/simrededepostos/"
+                                        target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                                <li class="list-inline-item text-rosa-lar"> <a class="text-rosa-lar"
+                                        href="https://www.facebook.com/Simredepostos" target="_blank"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li class="list-inline-item text-rosa-lar"> <a class="text-rosa-lar"
+                                        href="https://www.instagram.com/simredepostos/?hl=pt-br" target="_blank"><i
+                                            class="fab fa-instagram"></i></a></li>
+                                <li class="list-inline-item text-rosa-lar"> <a class="text-rosa-lar"
+                                        href="https://twitter.com/PostosSIM/" target="_blank"><i
+                                            class="fab fa-twitter"></i></a></li>
+                                <li class="list-inline-item text-rosa-lar"> <a class="text-rosa-lar"
+                                        href="https://www.youtube.com/user/Sim12101985" target="_blank"><i
+                                            class="fab fa-youtube"></i></a></li>
+
+                            </ul>
+                        </div>
+                        <div class="card text-white bg-primary d-md-down-none">
+                            <div class="card-body text-center p-0">
+                                <div>
+                                    <img src="../../../assets/images/simpostos.jpg" alt="SIM Rede" class="w-100" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+</div>
