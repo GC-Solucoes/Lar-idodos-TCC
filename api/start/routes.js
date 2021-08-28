@@ -19,7 +19,7 @@ const Route = use('Route')
 // Route.resource('users', 'UserController').apiOnly();
 Route.get('users', 'UserController.index').middleware('auth');
 Route.get('users/:id', 'UserController.show').middleware('auth');
-Route.post('users', 'UserController.store').middleware('auth');
+Route.post('users', 'UserController.store')
 Route.put('users/:id', 'UserController.update').middleware('auth');
 Route.delete('users/:id', 'UserController.destroy').middleware('auth');
 Route.post('/login', 'UserController.login');
