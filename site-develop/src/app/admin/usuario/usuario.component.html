@@ -7,58 +7,61 @@
 <!-- Forms Usuários  -->
 <div class="row">
   <div class="col-md-12">
-      <div class="card">
-                  <div class="card-body">
-              <h4 class="card-title">
-                  <span class="lstick"></span>Usuários
-                  <button class="btn btn-sm btn-primary float-right"
-                      routerLinkActive="router-link-active" [routerLink]="['criar']">
-                      Novo Usuário
-                  </button>
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">
+          <span class="lstick"></span>Usuários
+          <button class="btn btn-sm btn-primary float-right" routerLinkActive="router-link-active"
+            [routerLink]="['criar']">
+            Novo Usuário
+          </button>
 
+          <button class="btn btn-sm btn-primary float-right mr-1" routerLinkActive="router-link-active"
+            [routerLink]="['/admin/']">
+            Voltar
+          </button>
+        </h4>
 
-              </h4>
+        <div class="table-responsive-lg">
+          <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th class="text-center">NOME</th>
+                <th class="text-center">EMAIL</th>
+                <th class="text-right">OPÇÕES</th>
+                <!-- <th class="text-center">Situação</th> -->
+                <th class="">
 
-              <div class="table-responsive-lg">
-                  <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
-                      <thead>
-                        <tr>
-                          <th>ID</th>
-                          <th class="text-center">NOME</th>
-                          <th class="text-center">EMAIL</th>
-                         <th class="text-right">OPÇÕES</th>
-                          <!-- <th class="text-center">Situação</th> -->
-                          <th class="">
-
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr *ngFor="let user of users ">
-                          <td>{{user.id}}</td>
-                          <td class="text-center">{{user.username}}</td>
-                          <td class="text-center">{{user.email}}</td>
-                          <td class="text-right">
-                               <button class="btn btn secondary" [routerLink]="['editar', user.id]">Editar</button>
-                               <button class="btn btn secondary text-right" (click)="delete(user.id)">Delete</button>
-                       </td>
-                        </tr>
-                      </tbody>
-                      <tfoot>
-                          <tr>
-                              <td class="text-center pt-5 pb-0" colspan="7">
-                                  <!-- <pagination-controls (pageChange)="paginaAtual = $event"
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let user of users ">
+                <td>{{user.id}}</td>
+                <td class="text-center">{{user.username}}</td>
+                <td class="text-center">{{user.email}}</td>
+                <td class="text-right">
+                  <button class="btn btn secondary" [routerLink]="['editar', user.id]">Editar</button>
+                  <button class="btn btn secondary text-right" (click)="delete(user.id)">Delete</button>
+                </td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td class="text-center pt-5 pb-0" colspan="7">
+                  <!-- <pagination-controls (pageChange)="paginaAtual = $event"
                                       responsive="true"
                                       previousLabel="Anterior"
                                       nextLabel="Próximo"></pagination-controls> -->
-                                  <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls> -->
-                              </td>
-                          </tr>
-                      </tfoot>
-                  </table>
-              </div>
-          </div>
+                  <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls> -->
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
       </div>
+    </div>
   </div>
 </div>
 
