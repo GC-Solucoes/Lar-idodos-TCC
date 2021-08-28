@@ -5,9 +5,9 @@
 export const environment = {
   production: false,
   SendMailUrl: 'http://127.0.0.1:3333/sendmail',
-  apiUrl:'http://127.0.0.1:3333',
-  postagem:'http://127.0.0.1:3333/postagens/',
-  privacidade:'http://127.0.0.1:3333/politicas-de-privacidade/',
+  apiUrl: 'http://127.0.0.1:3333',
+  postagem: 'http://127.0.0.1:3333/postagens/',
+  privacidade: 'http://127.0.0.1:3333/politicas-de-privacidade/',
 
 };
 

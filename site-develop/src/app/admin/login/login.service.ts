@@ -5,7 +5,7 @@ import { first } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
 import { BehaviorSubject, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
-import {User} from './User/user';
+import { User } from './User/user';
 import { HttpClient } from '@angular/common/http';
 
 
@@ -20,54 +20,54 @@ export class LoginService {
   constructor(private router: Router, private http: HttpClient,) {
     this.userSubject = new BehaviorSubject<User>(
       JSON.parse(localStorage.getItem('user') || 'null')
-  );
+    );
 
-  this.user = this.userSubject.asObservable();
+    this.user = this.userSubject.asObservable();
   }
 
   public get userValue(): User {
     return this.userSubject.value;
-}
+  }
 
-login(email: string, password: string) {
-  return this.http
+  login(email: string, password: string) {
+    return this.http
       .post<any>(`${environment.apiUrl}/login`, {
-         email,
-          password,
+        email,
+        password,
       })
       .pipe(
-          map((user) => {
-              // store user details and jwt token in local storage to keep user logged in between page refreshes
-              localStorage.setItem('user', JSON.stringify(user));
-              this.userSubject.next(user);
-              return user;
-          })
+        map((user) => {
+          // store user details and jwt token in local storage to keep user logged in between page refreshes
+          localStorage.setItem('user', JSON.stringify(user));
+          this.userSubject.next(user);
+          return user;
+        })
 
       );
 
-}
+  }
 
 
-loggedIn() {
-  return !!localStorage.getItem('user')
+  loggedIn() {
+    return !!localStorage.getItem('user')
 
-}
+  }
 
-getToken(){
-  return JSON.parse(localStorage.getItem('user'))
-}
+  getToken() {
+    return JSON.parse(localStorage.getItem('user'))
+  }
 
-logout() {
-  // remove user from local storage to log user out
-  localStorage.removeItem('user');
-  this.userSubject.next(JSON.parse('null'));
-  this.router.navigate(['/login']);
-}
+  logout() {
+    // remove user from local storage to log user out
+    localStorage.removeItem('user');
+    this.userSubject.next(JSON.parse('null'));
+    this.router.navigate(['/login']);
+  }
 
 
-usuarioAutenticado() {
-  return this.loggedIn
-}
+  usuarioAutenticado() {
+    return this.loggedIn
+  }
 
 
 }
