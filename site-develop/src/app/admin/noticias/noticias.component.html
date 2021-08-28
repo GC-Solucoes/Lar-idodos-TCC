@@ -10,7 +10,7 @@
     <div class="card">
       <div class="card-body">
         <h4 class="card-title">
-          <span class="lstick"></span>Notícias
+          <span class="lstick"></span><b>Notícias</b>
 
 
 
@@ -19,32 +19,27 @@
         <div class="table-responsive-lg">
           <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
             <thead>
-              <tr>
 
-                <th class="text-center">Titulo</th>
-                <th class="text-center">Texto</th>
-                <th class="text-center">Links</th>
-
-                <!-- <th class="text-center">Situação</th> -->
-                <th class=""></th>
-              </tr>
             </thead>
             <tbody>
-              <tr *ngFor="let postagem of postagens ">
-                <td class="text-center">{{postagem.titulo}}</td>
-                <td class="text-center">{{postagem.textos}}</td>
-                <td class="text-center">{{postagem.links}}</td>
 
-              </tr>
+
+              <div class="card text-white bg-dark mb-3" style="width: 20rem;">
+                <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+                <div class="card-body" *ngFor="let postagem of postagens ">
+                  <h5 class="card-title"><b> {{postagem.titulo}}</b></h5>
+                  <p class="card-text">{{postagem.textos}}</p>
+                  <a class="btn btn-primary">{{postagem.links}}</a>
+                </div>
+              </div>
+
             </tbody>
             <tfoot>
-              <tr>
-                <td class="text-center pt-5 pb-0" colspan="7">
-                  <!-- <pagination-controls (pageChange)="paginaAtual = $event"
-                                      responsive="true"
-                                      previousLabel="Anterior"
-                                      nextLabel="Próximo"></pagination-controls> -->
-                  <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls> -->
+              <!-- <tr> -->
+              <td class="text-center pt-5 pb-0" colspan="7">
+                <!-- <pagination-controls (pageChange)="paginaAtual = $event" responsive="true" previousLabel="Anterior"
+                    nextLabel="Próximo"></pagination-controls> -->
+                <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls>
                 </td>
               </tr>
             </tfoot>
