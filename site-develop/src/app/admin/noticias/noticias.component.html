@@ -25,7 +25,7 @@
 
 
               <div class="card text-white bg-dark mb-3" style="width: 20rem;">
-                <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+                <img *ngFor="let banner of banners" class="card-img-top" [src]="banner.imagens" alt="Card image cap">
                 <div class="card-body" *ngFor="let postagem of postagens ">
                   <h5 class="card-title"><b> {{postagem.titulo}}</b></h5>
                   <p class="card-text">{{postagem.textos}}</p>
