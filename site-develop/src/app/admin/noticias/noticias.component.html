@@ -27,12 +27,14 @@
             <tbody>
 
 
-              <div class="card text-white bg-dark mb-3" style="width: 20rem;">
+              <div class="card text-white bg-dark mb-3" style="width: 20rem;" *ngFor="let postagem of postagens ">
                 <img *ngFor="let banner of banners" class="card-img-top" [src]="banner.imagens" alt="Card image cap">
-                <div class="card-body" *ngFor="let postagem of postagens ">
+                <div class="card-body">
                   <h5 class="card-title"><b> {{postagem.titulo}}</b></h5>
                   <p class="card-text">{{postagem.textos}}</p>
-                  <a class="btn btn-primary">{{postagem.links}}</a>
+                  <a class="card-text">
+                    {{postagem.links}}
+                  </a>
                 </div>
               </div>
 
