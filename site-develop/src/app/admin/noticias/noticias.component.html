@@ -1,1 +1,58 @@
-<p>noticias works!</p>
+<div class="row">
+  <div class="col-md-12">
+
+  </div>
+</div>
+
+<!-- Forms Usuários  -->
+<div class="row">
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">
+          <span class="lstick"></span>Notícias
+
+
+
+        </h4>
+
+        <div class="table-responsive-lg">
+          <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
+            <thead>
+              <tr>
+
+                <th class="text-center">Titulo</th>
+                <th class="text-center">Texto</th>
+                <th class="text-center">Links</th>
+
+                <!-- <th class="text-center">Situação</th> -->
+                <th class=""></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let postagem of postagens ">
+                <td class="text-center">{{postagem.titulo}}</td>
+                <td class="text-center">{{postagem.textos}}</td>
+                <td class="text-center">{{postagem.links}}</td>
+
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td class="text-center pt-5 pb-0" colspan="7">
+                  <!-- <pagination-controls (pageChange)="paginaAtual = $event"
+                                      responsive="true"
+                                      previousLabel="Anterior"
+                                      nextLabel="Próximo"></pagination-controls> -->
+                  <!-- <pagination-controls (pageChange)="getPage($event)" id="server"></pagination-controls> -->
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- fim users  -->
