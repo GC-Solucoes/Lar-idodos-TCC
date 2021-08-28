@@ -25,6 +25,7 @@ import { CampoControlErrorComponent } from './campo-control-error/campo-control-
 import { PoliticasDePrivacidadeComponent } from './politicas-de-privacidade/politicas-de-privacidade.component';
 import { EditarPoliticasDePrivacidadeComponent } from './politicas-de-privacidade/editar-politicas-de-privacidade/editar-politicas-de-privacidade.component';
 import { CKEditorModule } from 'ckeditor4-angular';
+import { NoticiasComponent } from './noticias/noticias.component';
 
 @NgModule({
 
@@ -38,7 +39,7 @@ import { CKEditorModule } from 'ckeditor4-angular';
     ReactiveFormsModule,
     RouterModule
   ],
-  declarations: [AdminComponent, PostagemComponent, BannerComponent, LoginComponent, UsuarioComponent, EditarComponent, EditarPostagemComponent, EditarBannerComponent, OndeEstamosAdminComponent, EditarOndeEstamosComponent, CarouselAdminComponent, EditarCarouselAdminComponent, PasswordStrengthComponent, CampoControlErrorComponent, PoliticasDePrivacidadeComponent, EditarPoliticasDePrivacidadeComponent,],
+  declarations: [AdminComponent, PostagemComponent, BannerComponent, LoginComponent, UsuarioComponent, EditarComponent, EditarPostagemComponent, EditarBannerComponent, OndeEstamosAdminComponent, EditarOndeEstamosComponent, CarouselAdminComponent, EditarCarouselAdminComponent, PasswordStrengthComponent, CampoControlErrorComponent, PoliticasDePrivacidadeComponent, EditarPoliticasDePrivacidadeComponent, NoticiasComponent,],
   providers: [
      { provide: HTTP_INTERCEPTORS, useClass: TokenInterceptorService, multi: true , },AuthGuard
   ],
