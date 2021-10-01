@@ -1,6 +1,6 @@
-# Blog Futebol
+# LAR IDOSOS
 
-Projeto base com a intenção de servir de base para um Site com publicações estilo blogs
+
 
 ## Pré Requisitos
 * Editor de Texto da sua Preferencia 
