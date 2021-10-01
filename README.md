@@ -31,6 +31,6 @@ Realize testes antes de solicitar alterações.
 ## Autores
 * Gabriel Coimbra - [Twitter](https://twitter.com/CoimbroX) - [Linkedin](https://www.linkedin.com/in/coimbrawebs)
 
-* Matheus dos Anjos - [Linkedin](https://www.linkedin.com/in/matheus-dos-anjos-barbosa-3043b518a/)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
