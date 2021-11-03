@@ -1,49 +1,57 @@
-<!-- Forms Usuários  -->
-<div class="row">
-  <div class="col-md-12">
+<nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-light" id="navbar">
+  <div class="container">
+    <!-- LOGO -->
+    <a class="navbar-brand logo" href="/">
+      <img src="assets/images/larIdososLogo.png" alt="" class="logo-dark" height="50" />
+      <img src="assets/images/larIdososLogo.png" alt="" class="logo-light" height="400" />
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+      aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="mdi mdi-menu"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav mx-auto navbar-center" id="mySidenav">
+        <!-- <li class="nav-item" [ngClass]="{'active':currentSection === 'home'}">
+            <a href="javascript: void(0);" [ngxScrollTo]="'#home'" class="nav-link">Home</a>
+          </li> -->
+        <!-- <li class="nav-item">
+          <a routerLink="/" class="nav-link">Quem Somos</a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="/" class="nav-link">Nossos Valores</a>
+        </li> -->
+        <!-- <li class="nav-item" [ngClass]="{'active':currentSection === 'location'}">
+          <a routerLink="/" [ngxScrollTo]="'#location'" class="nav-link">Onde Estamos</a>
+        </li> -->
+        <!-- <li class="nav-item">
+          <a routerLink="/" class="nav-link">Fale Conosco</a>
+        </li> -->
+      </ul>
+      <ul class="navbar-nav navbar-center">
+        <li class="nav-item">
+          <a routerLink="postagem" class="nav-link">
+            <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Postagem
+          </a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="banners" class="nav-link">
+            <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Banners
+          </a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="usuarios" class="nav-link">
+            <i-feather class="icon-xs icon mr-1" name="lock"></i-feather>Usuários
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="btn btn-link px-0 " [routerLink]=" ['']" (click)="logout()"
+            onclick="alert ('Logout Concluido')">Logout</a>
+        </li>
 
-    <div class="row">
-      <div class="col-md-12">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title">
-              <span class="lstick"></span>Admin
-
-              <button class="btn btn-sm btn-primary float-right mr-1" routerLinkActive="router-link-active"
-                [routerLink]="['/']">
-                Home
-              </button>
-            </h4>
-            <div class="table-responsive-lg">
-              <table class="table vm no-th-brd pro-of-month mb-0 v-middle">
-                <thead>
-                  <tr>
-                    <td><Button class="btn-primary" [routerLink]="['postagem']">Postagem</Button></td>
-                    <td><Button class="btn-primary" [routerLink]="['banners']">Banners</Button></td>
-                    <td><Button class="btn-primary" [routerLink]="['usuarios']">Usuários</Button></td>
-                    <!-- <td><Button class="btn-primary" [routerLink]="['onde-estamos']">Onde Estamos</Button></td> -->
-                    <!-- <td><Button class="btn-primary" [routerLink]="['carousel']">Carrossel</Button></td> -->
-                    <!-- <td><Button class="btn-primary" [routerLink]="['politicas-de-privacidade']">Politicas de
-                        Privacidade</Button></td> -->
-                    <td><Button class="btn btn-link px-0 mt-2" [routerLink]="['']" (click)="logout()"
-                        onclick="alert ('Logout Concluido')">Logout</Button></td>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-
-
-                  </tr>
-
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
+      </ul>
     </div>
   </div>
-</div>
+</nav>
 
 <router-outlet></router-outlet>
 
