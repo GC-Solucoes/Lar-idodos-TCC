@@ -30,7 +30,7 @@ const routes: Routes = [
   //usuário
   { path: 'usuarios', component: UsuarioComponent, canActivate: [AuthGuard] },
   //criar usuário
-  { path: 'usuarios/criar', component: EditarComponent, canActivate: [AuthGuard] },
+  { path: 'usuarios/criar', component: EditarComponent, },
   //editar usuário
   { path: 'usuarios/editar/:id', component: EditarComponent, canActivate: [AuthGuard] },
   // postagem
