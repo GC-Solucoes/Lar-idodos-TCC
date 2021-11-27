@@ -1,3 +1,4 @@
+import { UsuarioComponent } from './../../admin/usuario/usuario.component';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { NgxSpinnerService } from 'ngx-spinner';
