@@ -42,10 +42,15 @@
                     </div>
                   </div>
                   <div [hidden]="false">
-                    <!-- <div class="col-12 text-right">
-                      <button type="button" class="btn btn-link px-0 mt-2" [routerLink]="['/esqueci-minha-senha']"
-                        routerLinkActive="router-link-active">Esqueceu sua senha?</button>
-                    </div> -->
+                    <div class="col-12 text-right">
+                      <button type="button" class="btn btn-link px-0 mt-2" [routerLink]="['/admin/usuarios/criar']"
+                        routerLinkActive="router-link-active">Não tem login? Cadastre-se</button>
+                    </div>
+
+                    <div class="col-12 text-center">
+                      <button type="button" class="btn btn-link px-0 mt-2" [routerLink]="['/']"
+                        routerLinkActive="router-link-active">Voltar</button>
+                    </div>
                   </div>
                   <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
                 </form>
