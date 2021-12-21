@@ -25,7 +25,7 @@ npm start ou ng serve
 ```
 
 ## Link Documentação API
-*  [Documentação] (https://documentsapi.notion.site/Documenta-o-388e6bcd302c468cbea6108391dab63f)
+*  [Documentação](https://documentsapi.notion.site/Documenta-o-388e6bcd302c468cbea6108391dab63f) 
 *  
 ## Contribuição
 Pull requests são aceitos. Para mudanças maiores, abra uma issue e informe o que você gostaria de mudar.
